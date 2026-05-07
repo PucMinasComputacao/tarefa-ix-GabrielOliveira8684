@@ -9,8 +9,8 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Gabriel Oliveira Gonzaga Araújo
+- Matricula: 915738
 
 ![Card data](<Captura de tela 2026-05-02 205354-1.png>)
 
