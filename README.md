@@ -12,3 +12,10 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 - Nome:
 - Matricula:
 
+![Card data](<Captura de tela 2026-05-02 205354-1.png>)
+
+![card data](<Captura de tela 2026-05-02 205341-1.png>)
+
+![print site](<Captura de tela 2026-05-02 204826-1.png>)
+
+![print site em destaque](<Captura de tela 2026-05-02 204847-1.png>)
